@@ -1,2 +1,2 @@
 # jenkins_Project_1
-This is first project in jenkins
+This is first Practice Project for Jenkins
